@@ -1,4 +1,4 @@
-//muhammadmaaz_i253066_assignment_02
+//Random Exercise Generator
 
 #include<iostream>
 #include<cstdlib>
@@ -103,3 +103,4 @@ break;
 
 	return 0;
 }
+
